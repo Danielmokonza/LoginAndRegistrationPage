@@ -13,7 +13,7 @@ body{           /*sets look for entire page*/
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url('/Images/Background.png') no-repeat;
+    background: url(Background.png) no-repeat;
     background-size: cover;
     background-position: center;
 
@@ -35,7 +35,7 @@ header{     /*Sets look for heading*/
     color: #fff;
     user-select: none;
 }
-.nav_bar a{     /*nav bar refers to the navigation bar that holds all the login inputs and buttons, the different classes edit different aspects of it*/
+.nav_bar a{     /*nav bar refers to the navigation bar that holds all the headings, the different classes edit different aspects of it*/
     position: relative;
     font-size: 1.1em;
     color: #fff;
